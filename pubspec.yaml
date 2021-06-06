@@ -64,7 +64,7 @@ flutter:
   fonts:
    - family: Poppins
      fonts:
-       - asset: assets/fonts/Poppins-Bold.ttf
+       - asset: assets/fonts/Poppins-ExtraBold.ttf
          weight: 900
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic

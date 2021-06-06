@@ -32,7 +32,7 @@ class WebsiteState extends State<Website>{
                 ),
 
                 Positioned.fill(
-                  bottom: MediaQuery.of(context).size.height * 0.095,
+                  bottom: MediaQuery.of(context).size.height * 0.15,
                   child: Align(
                     alignment: Alignment.bottomCenter,
                     child: Column(
