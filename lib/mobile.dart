@@ -56,7 +56,7 @@ class MobileState extends State<Mobile>{
                             style: TextStyle(
                               fontFamily: 'Poppins',
                               color: Colors.white,
-                              fontWeight: FontWeight.w900,
+                              fontWeight: FontWeight.w500,
                               fontSize: 15,
                               letterSpacing: 1,
                             ),
